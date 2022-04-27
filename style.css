@@ -1,0 +1,149 @@
+#navbar_top {
+    background-color:white;
+}
+
+.head-container {
+    background-color:rgb(81, 81, 81);
+}
+
+.navbar-nav li{
+    padding-right: 60px;
+  }
+
+h1 {
+    padding-top:30px;  
+    padding-bottom:30px; 
+}
+.text {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.container1 {
+    background-color:crimson;
+    height: 360px;
+}
+
+.container2 {
+    background-color:orange;
+}
+
+.container3 {
+    background-color:seagreen;
+}
+.containers .row {
+    height: 360px;
+}
+
+.img-col1 {
+    background-image: url('1.png');
+    background-size: cover;
+}
+
+.img-col2 {
+    background-image: url('2.jpg');
+    background-size: cover;
+}
+
+.img-col3 {
+    background-image: url('3.jpg');
+    background-size: cover;
+}
+
+
+.col-4 .text {
+    padding-left: 90px;
+    padding-right: 60px;
+    padding-top: 30px;
+}
+
+.nav-link {
+    font-size:30px;
+}
+
+p.body_text { 
+    padding-top:30px;
+    padding-bottom:90px;
+    padding-left:10%;
+    padding-right:10%;
+    font-size:larger;
+}
+
+p {
+    font-size:larger;
+    padding-bottom:30px;
+}
+
+.fact1_container {
+    background-color: crimson;
+}
+
+.fact2_container {
+    background-color: orange;
+}
+
+.fact3_container {
+    background-color: seagreen;
+}
+
+
+.img_container1 {
+    margin-top: 30px;
+    height: 600px;
+    background-image: url('1.png');
+    background-size: cover;
+}
+
+.img_container2 {
+    margin-top: 30px;
+    height: 600px;;
+    background-image: url('2.jpg');
+    background-size: cover;
+}
+
+.img_container3 {
+    margin-top: 30px;
+    height: 600px;;
+    background-image: url('3.jpg');
+    background-size: cover;
+}
+
+.simulator_title {
+    background-color:darkgray;
+}
+
+.button {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.img-containers {
+    text-align: center;
+    padding-top: 30px;
+    height:50%;
+    width:50%;
+}
+
+img.header-img {
+    width:auto; 
+    height:auto; 
+    max-width:100%; 
+    max-height:100%;
+}
+
+h4 {
+    padding-bottom: 30px;
+    color:white;
+}
+
+.fact_title {
+    color:white;
+}
+
+.explanation {
+    padding-bottom: 30px;
+}
