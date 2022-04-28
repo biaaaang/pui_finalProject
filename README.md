@@ -1,6 +1,7 @@
 1.Links
 Figma:https://www.figma.com/file/gT7z6e24TbcQF8EBYgxYIQ/Untitled?node-id=0%3A1
 Website:https://pui-final-project.web.app/
+Video: https://youtu.be/puTh0RzUjeo
 
 2.Description
 For my project, I want to build a website about Covid-19 to help people understand it 
